@@ -74,6 +74,8 @@ streamlit run app.py
 ## 📷 Output
 
 - Error if the name is empty.
+- <img width="1916" height="1021" alt="image" src="https://github.com/user-attachments/assets/f94f0c80-0d7c-4dc7-a5e4-8bddb8d45bbe" />
+
 - Warning if the message is empty.
 - Success message when both fields are provided.
 - Token usage estimate displayed as a system check.
