@@ -74,14 +74,14 @@ streamlit run app.py
 ## 📷 Output
 
 - Error if the name is empty.
-- <img width="1922" height="996" alt="image" src="https://github.com/user-attachments/assets/4c6109cd-1a37-4a01-8a97-d48efca74e24" />
+ <img width="1922" height="996" alt="image" src="https://github.com/user-attachments/assets/4c6109cd-1a37-4a01-8a97-d48efca74e24" />
 
 - Warning if the message is empty.
-- <img width="1916" height="1021" alt="image" src="https://github.com/user-attachments/assets/2c8aa6fe-004d-4a7c-a279-24684a7435df" />
+ <img width="1916" height="1021" alt="image" src="https://github.com/user-attachments/assets/2c8aa6fe-004d-4a7c-a279-24684a7435df" />
 
 - Success message when both fields are provided.
 - Token usage estimate displayed as a system check.
-- <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/46f85c93-8ff6-4a6f-b2e4-4da2e3a4d3e2" />
+  <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/46f85c93-8ff6-4a6f-b2e4-4da2e3a4d3e2" />
 
 
 ## 👩‍💻 Author
