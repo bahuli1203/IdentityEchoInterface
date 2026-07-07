@@ -80,8 +80,9 @@ streamlit run app.py
  <img width="1916" height="1021" alt="image" src="https://github.com/user-attachments/assets/2c8aa6fe-004d-4a7c-a279-24684a7435df" />
 
 - Success message when both fields are provided.
-- Token usage estimate displayed as a system check.
-  <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/46f85c93-8ff6-4a6f-b2e4-4da2e3a4d3e2" />
+- Token usage estimate displayed as a system check and character count
+<img width="1774" height="1000" alt="image" src="https://github.com/user-attachments/assets/c14ed93b-e7d4-44fc-895e-cc36a8e4b473" />
+
 
 
 ## 👩‍💻 Author
